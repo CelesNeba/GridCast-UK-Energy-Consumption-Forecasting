@@ -1,4 +1,4 @@
-# UK electricity consumption forecasting 
+# GridCast-UK-Energy-consumption-Forecasting 
 
 ## 1. Project overview
 
